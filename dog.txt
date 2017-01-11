@@ -2,3 +2,4 @@ Dogs are good friends of human!
 Dogs love human!
 Human love dogs!
 The dog does not seem to like cats.
+It seems true.
