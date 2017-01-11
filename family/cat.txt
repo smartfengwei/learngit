@@ -1,2 +1,3 @@
 The cat catches the mouse.
 Mice fear the cat.
+The cat looks scared of the dog.
